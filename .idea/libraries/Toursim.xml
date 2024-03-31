@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Toursim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Toursim/dist/Toursim.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
